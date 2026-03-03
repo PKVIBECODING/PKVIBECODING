@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAK X CYBER</h1>
-<h3 align="center">A passionate developer building web solutions and dynamic digital content</h3>
+<h3 align="center">A passionate developer building AI-driven web solutions and dynamic digital content</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CYBERXPK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,10 +15,22 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 Check out my portfolio and all my available projects at **[texify.xyz](https://www.texify.xyz)**
-- 📝 I regularly write articles and updates on **[pak-updates.lovable.app](https://pak-updates.lovable.app)**
-- 🎞️ **Currently exploring:** Web development architecture, automation, and creating social media promotional videos.
-- 📫 **How to reach me:** [Insert your Email/LinkedIn here]
+- 🌐 Exploring the intersection of AI and web development to build highly scalable applications.
+- 🎞️ **Currently focusing on:** Rapid AI deployment, web automation, and creating social media promotional videos to drive traffic to my projects.
+- 📫 **How to reach me:** [Insert your Email or LinkedIn here]
+
+---
+
+### 🧠 AI-Engineered Web Portfolio
+
+*I leverage advanced AI (like Claude) to rapidly build, deploy, and scale dynamic web applications. Here are my live projects:*
+
+| 🌐 Project | 🚀 Status & Links |
+| :--- | :--- |
+| ⚡ **Texify** | 🟢 **Live:** [www.texify.xyz](https://www.texify.xyz) <br> *(Alt link: [www--texify.xyz](https://www--texify.xyz))* |
+| 📰 **Pak Updates** | 🟢 **Live:** [pak-updates.xyz](https://pak-updates.xyz) <br> *(Lovable Build: [pak-updates.lovable.app](https://pak-updates.lovable.app))* |
+| 🛡️ **XCyber Hub** | 🟢 **Live:** [xcyber.up.railway.app](https://xcyber.up.railway.app) |
+| 🏆 **World Cup Hub** | 🟢 **Live:** [worldcup.up.railway.app](https://worldcup.up.railway.app) |
 
 ---
 
