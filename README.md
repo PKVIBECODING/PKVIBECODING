@@ -1,142 +1,81 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 PKVIBECODING · GITHUB README                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=OK%20VIBE%20CODING&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=AI-Powered%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=18&descAlignY=78&descColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8A2BE2,00D4FF&height=250&section=header&text=OK%20VIBE%20CODING&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI-Augmented%20Developer%20%7C%20Pakistan%20🇵🇰&descSize=22&descAlignY=65" width="100%" alt="Header"/>
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Building+AI-Powered+Web+Solutions;🤖+Shipping+with+Claude+%26+Gemini;🇵🇰+Digitizing+Pakistan%2C+One+Tool+at+a+Time;🚀+From+Idea+to+Deployed+in+Hours)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Engineering+AI-Driven+Web+Solutions;🤖+Warp-Speed+Shipping+with+Claude+%26+Gemini;🇵🇰+Digitizing+Pakistan%2C+One+Tool+at+a+Time;🚀+Turning+Ideas+into+Deployed+Reality)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PKVIBECODING&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/PKVIBECODING?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/PKVIBECODING?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=PKVIBECODING&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/PKVIBECODING?style=for-the-badge&color=00D4FF&labelColor=0d1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/PKVIBECODING?style=for-the-badge&color=8A2BE2&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--               ABOUT ME SECTION            -->
-<!-- ══════════════════════════════════════════ -->
+### 👨‍💻 `> ./execute_profile.sh`
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzZGNjZWMwYjQzMWQ3M2NhZGU4N2M5NTQ2Y2JjM2Q2Y2MzZGEzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
-### `> whoami`
+Welcome to my digital workspace. I am an AI-powered Full Stack Developer focused on building high-performance web applications, automating workflows, and leveraging the power of LLMs to ship code at unprecedented speeds.
 
-```yaml
-Name        : OK VIBE CODING
-Role        : AI-Powered Full Stack Developer
-Location    : 🇵🇰 Pakistan
-Focus       : AI × Web Automation × Digital Tools
-Stack       : Python · JS · React · Django · FastAPI
-Superpower  : Shipping with Claude & Gemini at warp speed
-Status      : 🟢 Building in Public
-```
-
-### `> mission.exe`
-
-```
-⚡ Rapidly engineering AI-driven web products
-🛠  Automating everything that can be automated
-📡 Broadcasting Pakistan's digital future
-🚀 From zero to deployed in hours, not months
-```
+**Core Directives:**
+* **Mission:** Rapid prototyping and deployment of robust digital tools.
+* **Methodology:** AI-assisted development (Claude/Gemini) + Clean Code + Agile Iteration.
+* **Current Focus:** Expanding the digital frontier in Pakistan and beyond.
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              TROPHY SHOWCASE              -->
-<!-- ═════════════════════════════════════════ -->
+### ⚙️ `> stack.json`
 
 <div align="center">
 
-### 🏆 &nbsp;ACHIEVEMENT UNLOCKED
+| Core Languages | Frameworks & Libs | Cloud & Databases | AI & Dev Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,js,ts,php,kotlin" /> | <img src="https://skillicons.dev/icons?i=react,django,fastapi,flask,nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,docker" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /> |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PKVIBECODING&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+*Supercharged by:* <br/>
+![Claude](https://img.shields.io/badge/Claude_AI-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A853) ![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              TECH STACK                   -->
-<!-- ══════════════════════════════════════════ -->
+### 📊 `> system_metrics.log`
 
 <div align="center">
 
-### 🛠️ &nbsp;TECH ARSENAL
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-**AI Tools I Ship With**
-
-![Claude](https://img.shields.io/badge/Claude_AI-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A853)
-![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--            GITHUB STATS                   -->
-<!-- ══════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 &nbsp;STATS TERMINAL
-
-<img src="https://github-readme-stats.vercel.app/api?username=PKVIBECODING&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PKVIBECODING&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=PKVIBECODING&show_icons=true&theme=tokyonight&hide_border=true&ring_color=8A2BE2" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PKVIBECODING&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PKVIBECODING&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PKVIBECODING&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=00D4FF" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PKVIBECODING&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PKVIBECODING&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--             SNAKE ANIMATION               -->
-<!-- ══════════════════════════════════════════ -->
+### 🏆 `> unlock_achievements()`
 
 <div align="center">
 
-### 🐍 &nbsp;CONTRIBUTION SNAKE
+[![trophy](https://github-profile-trophy.vercel.app/?username=PKVIBECODING&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 `> contribution_matrix`
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -144,15 +83,7 @@ Status      : 🟢 Building in Public
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+<br/>
 
-```
-╔════════════════════════════════════════════════════╗
-║   Built with ⚡ AI  ·  Deployed at 🚀 warp speed  ║
-║        © OK VIBE CODING · Pakistan 🇵🇰             ║
-╚════════════════════════════════════════════════════╝
-```
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer)
-
-</div>
+```text
+[ SYSTEM STATUS: ONLINE ]  //  Built with ⚡ AI · Deployed at 🚀 Warp Speed  //  © OK VIBE CODING · Pakistan 🇵🇰
